@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Libraries
+*.lib
+*.dll
+
+# Build directories
+/build/
+/bin/
+
+# Visual Studio files
+*.user
+*.suo
+*.vcxproj*
+
+# Logs
+*.log
